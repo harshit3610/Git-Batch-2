@@ -1,0 +1,7 @@
+#Use the car sales data set for this task
+
+1)print the number of rows from this data set
+2)Print a list of manufacturers in the data set
+3)print the model whose horsepower is the maximum
+4)show data of cars whose fuel efficiency was between 10 to 15
+5)show data of cars whose latest launch was in 2011
